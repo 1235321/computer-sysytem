@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1610457352 source:e:\大三上学期\操作系统\页面置换算法\test\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<ctime>
+	<windows.h>
+	<fstream>
+
+1610617203 source:e:\大三上学期\操作系统\页面置换算法\页面调度算法\main.cpp
+	"over.h"
+
+1610618061 source:e:\大三上学期\操作系统\页面置换算法\页面调度算法\fifo.cpp
+	"init.h"
+
+1610525754 e:\大三上学期\操作系统\页面置换算法\页面调度算法\fifo.h
+	"init.h"
+
+1610630248 e:\大三上学期\操作系统\页面置换算法\页面调度算法\init.h
+	<iostream>
+	<iomanip>
+	<string>
+	<ctime>
+	<windows.h>
+	<fstream>
+
+1610630177 source:e:\大三上学期\操作系统\页面置换算法\页面调度算法\init.cpp
+	"init.h"
+
+1610618078 source:e:\大三上学期\操作系统\页面置换算法\页面调度算法\lru.cpp
+	"init.h"
+
+1610524848 e:\大三上学期\操作系统\页面置换算法\页面调度算法\lru.h
+	"init.h"
+
+1610617194 e:\大三上学期\操作系统\页面置换算法\页面调度算法\over.h
+	"init.h"
+
+1610618127 source:e:\大三上学期\操作系统\页面置换算法\页面调度算法\opt.cpp
+	"init.h"
+
+1610631431 source:e:\大三上学期\操作系统\页面置换算法\页面调度算法\over.cpp
+	"over.h"
+
