@@ -1,0 +1,816 @@
+# depslib dependency file v1.0
+1606832098 source:e:\profession\c++\algorithm\banker.cpp
+
+1606835954 source:e:\profession\c++\algorithm\init.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<string.h>
+	<iostream>
+	<cstring>
+	<stdlib.h>
+	<ctype.h>
+	<cstdlib>
+	<queue>
+
+1606835066 source:e:\profession\c++\algorithm\main.cpp
+	<iostream>
+	"head/init.h"
+	"head/FCFS.h"
+	"head/HRRN.h"
+	"head/RR.h"
+	"head/SJF.h"
+	"head/SRT.h"
+
+1606836173 e:\profession\c++\algorithm\head\init.h
+	<vector>
+
+1606832618 e:\profession\c++\algorithm\head\fcfs.h
+
+1606832561 e:\profession\c++\algorithm\head\hrrn.h
+
+1606832419 e:\profession\c++\algorithm\head\rr.h
+
+1606832593 e:\profession\c++\algorithm\head\sjf.h
+
+1606832487 e:\profession\c++\algorithm\head\srt.h
+
+1606836024 source:e:\profession\c++\algorithm\fcfs.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<string.h>
+	<iostream>
+	<cstring>
+	<stdlib.h>
+	<ctype.h>
+	<cstdlib>
+	<queue>
+	"head/init.h"
+
+1606836028 source:e:\profession\c++\algorithm\hrrn.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<string.h>
+	<iostream>
+	<cstring>
+	<stdlib.h>
+	<ctype.h>
+	<cstdlib>
+	<queue>
+	"head/init.h"
+
+1606836039 source:e:\profession\c++\algorithm\rr.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<string.h>
+	<iostream>
+	<cstring>
+	<stdlib.h>
+	<ctype.h>
+	<cstdlib>
+	<queue>
+	"head/init.h"
+
+1606836031 source:e:\profession\c++\algorithm\sjf.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<string.h>
+	<iostream>
+	<cstring>
+	<stdlib.h>
+	<ctype.h>
+	<cstdlib>
+	<queue>
+	"head/init.h"
+
+1606836035 source:e:\profession\c++\algorithm\srt.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<string.h>
+	<iostream>
+	<cstring>
+	<stdlib.h>
+	<ctype.h>
+	<cstdlib>
+	<queue>
+	"head/init.h"
+
+1606894208 source:c:\users\administrator\desktop\algorithm\init.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<string.h>
+	<iostream>
+	<cstring>
+	<stdlib.h>
+	<ctype.h>
+	<cstdlib>
+	<queue>
+
+1606894780 source:c:\users\administrator\desktop\algorithm\input.cpp
+	<iostream>
+
+1606895190 source:c:\users\administrator\desktop\algorithm\main.cpp
+	<iostream>
+	"head/input.h"
+	"head/output.h"
+
+1606893936 c:\users\administrator\desktop\algorithm\head\input.h
+
+1606895087 c:\users\administrator\desktop\algorithm\head\output.h
+
+1606895545 source:c:\users\administrator\desktop\algorithm\output.cpp
+	<iostream>
+	"head/FCFS.h"
+	"head/SJF.h"
+	"head/HRRN.h"
+	"head/SRT.h"
+	"head/RR.h"
+	"head/BANKER.h"
+
+1606832618 c:\users\administrator\desktop\algorithm\head\fcfs.h
+
+1606832593 c:\users\administrator\desktop\algorithm\head\sjf.h
+
+1606832561 c:\users\administrator\desktop\algorithm\head\hrrn.h
+
+1606832487 c:\users\administrator\desktop\algorithm\head\srt.h
+
+1606832419 c:\users\administrator\desktop\algorithm\head\rr.h
+
+1606894557 c:\users\administrator\desktop\algorithm\head\banker.h
+
+1606895235 source:c:\users\administrator\desktop\algorithm\res\fcfs.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<string.h>
+	<iostream>
+	<cstring>
+	<stdlib.h>
+	<ctype.h>
+	<cstdlib>
+	<queue>
+	"../head/init.h"
+
+1606836173 c:\users\administrator\desktop\algorithm\head\init.h
+	<vector>
+
+1606895248 source:c:\users\administrator\desktop\algorithm\res\hrrn.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<string.h>
+	<iostream>
+	<cstring>
+	<stdlib.h>
+	<ctype.h>
+	<cstdlib>
+	<queue>
+	"../head/init.h"
+
+1606895256 source:c:\users\administrator\desktop\algorithm\res\rr.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<string.h>
+	<iostream>
+	<cstring>
+	<stdlib.h>
+	<ctype.h>
+	<cstdlib>
+	<queue>
+	"../head/init.h"
+
+1606895263 source:c:\users\administrator\desktop\algorithm\res\sjf.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<string.h>
+	<iostream>
+	<cstring>
+	<stdlib.h>
+	<ctype.h>
+	<cstdlib>
+	<queue>
+	"../head/init.h"
+
+1606895270 source:c:\users\administrator\desktop\algorithm\res\srt.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<string.h>
+	<iostream>
+	<cstring>
+	<stdlib.h>
+	<ctype.h>
+	<cstdlib>
+	<queue>
+	"../head/init.h"
+
+1606896192 source:c:\users\administrator\desktop\algorithm\res\banker.cpp
+	<iostream>
+
+1606894208 source:c:\users\16540\desktop\algorithm\init.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<string.h>
+	<iostream>
+	<cstring>
+	<stdlib.h>
+	<ctype.h>
+	<cstdlib>
+	<queue>
+
+1606987142 source:c:\users\16540\desktop\algorithm\input.cpp
+	"head/input.h"
+	<iostream>
+
+1606972125 source:c:\users\16540\desktop\algorithm\main.cpp
+	<iostream>
+	"head/input.h"
+	"head/output.h"
+
+1606971894 c:\users\16540\desktop\algorithm\head\input.h
+
+1606971894 c:\users\16540\desktop\algorithm\head\output.h
+
+1606987303 source:c:\users\16540\desktop\algorithm\output.cpp
+	"head/output.h"
+	<iostream>
+	"head/res/res1/FCFS.h"
+	"head/res/res1/SJF.h"
+	"head/res/res1/HRRN.h"
+	"head/res/res1/SRT.h"
+	"head/res/res1/RR.h"
+	"head/res/res2/BANKER.h"
+	"head/res/res3/EDF.h"
+	"head/res/res3/LLF.h"
+	"head/res/res4/PSAt.h"
+	"head/res/res4/PSAf.h"
+
+1606971894 c:\users\16540\desktop\algorithm\head\fcfs.h
+
+1606971894 c:\users\16540\desktop\algorithm\head\sjf.h
+
+1606971894 c:\users\16540\desktop\algorithm\head\hrrn.h
+
+1606971894 c:\users\16540\desktop\algorithm\head\srt.h
+
+1606971894 c:\users\16540\desktop\algorithm\head\rr.h
+
+1606971894 c:\users\16540\desktop\algorithm\head\banker.h
+
+1606971894 source:c:\users\16540\desktop\algorithm\res\banker.cpp
+	<iostream>
+	<fstream>
+	"../head/init2.h"
+
+1606974467 source:c:\users\16540\desktop\algorithm\res\fcfs.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	"../head/init.h"
+
+1606973409 c:\users\16540\desktop\algorithm\head\init.h
+
+1606974227 source:c:\users\16540\desktop\algorithm\res\hrrn.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	"../head/init.h"
+
+1606974262 source:c:\users\16540\desktop\algorithm\res\rr.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<queue>
+	"../head/init.h"
+
+1606974304 source:c:\users\16540\desktop\algorithm\res\sjf.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	"../head/init.h"
+
+1606974308 source:c:\users\16540\desktop\algorithm\res\srt.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	"../head/init.h"
+
+1606953366 source:c:\users\hndx\desktop\algorithm\input.cpp
+	<iostream>
+
+1606953366 source:c:\users\hndx\desktop\algorithm\main.cpp
+	<iostream>
+	"head/input.h"
+	"head/output.h"
+
+1606953366 c:\users\hndx\desktop\algorithm\head\input.h
+
+1606953366 c:\users\hndx\desktop\algorithm\head\output.h
+
+1606953366 source:c:\users\hndx\desktop\algorithm\output.cpp
+	<iostream>
+	"head/FCFS.h"
+	"head/SJF.h"
+	"head/HRRN.h"
+	"head/SRT.h"
+	"head/RR.h"
+	"head/BANKER.h"
+
+1606953366 c:\users\hndx\desktop\algorithm\head\fcfs.h
+
+1606953366 c:\users\hndx\desktop\algorithm\head\sjf.h
+
+1606953366 c:\users\hndx\desktop\algorithm\head\hrrn.h
+
+1606953366 c:\users\hndx\desktop\algorithm\head\srt.h
+
+1606953366 c:\users\hndx\desktop\algorithm\head\rr.h
+
+1606954385 c:\users\hndx\desktop\algorithm\head\banker.h
+
+1606957415 source:c:\users\hndx\desktop\algorithm\res\banker.cpp
+	<iostream>
+	<fstream>
+	"../head/init2.h"
+
+1606955734 c:\users\hndx\desktop\algorithm\head\init2.h
+	<iostream>
+
+1606953960 source:c:\users\hndx\desktop\algorithm\res\fcfs.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<string.h>
+	<iostream>
+	<cstring>
+	<stdlib.h>
+	<ctype.h>
+	<cstdlib>
+	<queue>
+	"../head/init.h"
+
+1606953366 c:\users\hndx\desktop\algorithm\head\init.h
+	<vector>
+
+1606953969 source:c:\users\hndx\desktop\algorithm\res\hrrn.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<string.h>
+	<iostream>
+	<cstring>
+	<stdlib.h>
+	<ctype.h>
+	<cstdlib>
+	<queue>
+	"../head/init.h"
+
+1606953978 source:c:\users\hndx\desktop\algorithm\res\rr.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<string.h>
+	<iostream>
+	<cstring>
+	<stdlib.h>
+	<ctype.h>
+	<cstdlib>
+	<queue>
+	"../head/init.h"
+
+1606953984 source:c:\users\hndx\desktop\algorithm\res\sjf.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<string.h>
+	<iostream>
+	<cstring>
+	<stdlib.h>
+	<ctype.h>
+	<cstdlib>
+	<queue>
+	"../head/init.h"
+
+1606953991 source:c:\users\hndx\desktop\algorithm\res\srt.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<string.h>
+	<iostream>
+	<cstring>
+	<stdlib.h>
+	<ctype.h>
+	<cstdlib>
+	<queue>
+	"../head/init.h"
+
+1606953366 source:c:\users\hndx\desktop\algorithm\init\init.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<string.h>
+	<iostream>
+	<cstring>
+	<stdlib.h>
+	<ctype.h>
+	<cstdlib>
+	<queue>
+
+1606955702 source:c:\users\hndx\desktop\algorithm\init\init2.cpp
+
+1606983800 source:c:\users\16540\desktop\algorithm\init\init.cpp
+	"../head/init/init.h"
+
+1606982952 source:c:\users\16540\desktop\algorithm\init\init2.cpp
+	"../head/init/init2.h"
+
+1606971894 c:\users\16540\desktop\algorithm\head\init2.h
+	<iostream>
+
+1606984137 source:c:\users\16540\desktop\algorithm\init\init3.cpp
+	"../head/init/init3.h"
+
+1606983821 source:c:\users\16540\desktop\algorithm\res\res1\fcfs.cpp
+	"../../head/res/res1/FCFS.h"
+	<iostream>
+	<fstream>
+	<vector>
+	"../../head/init/init.h"
+
+1606983793 c:\users\16540\desktop\algorithm\head\init\init.h
+
+1606983880 source:c:\users\16540\desktop\algorithm\res\res1\hrrn.cpp
+	"../../head/res/res1/HRRN.h"
+	<iostream>
+	<fstream>
+	<vector>
+	"../../head/init/init.h"
+
+1606983877 source:c:\users\16540\desktop\algorithm\res\res1\rr.cpp
+	"../../head/res/res1/RR.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<queue>
+	"../../head/init/init.h"
+
+1606983891 source:c:\users\16540\desktop\algorithm\res\res1\sjf.cpp
+	"../../head/res/res1/SJF.h"
+	<iostream>
+	<fstream>
+	<vector>
+	"../../head/init/init.h"
+
+1606983900 source:c:\users\16540\desktop\algorithm\res\res1\srt.cpp
+	"../../head/res/res1/SRT.h"
+	<iostream>
+	<fstream>
+	<vector>
+	"../../head/init/init.h"
+
+1606983143 source:c:\users\16540\desktop\algorithm\res\res2\banker.cpp
+	<iostream>
+	<fstream>
+	"../../head/init/init2.h"
+	"../../head/res/res2/BANKER.h"
+
+1606982944 c:\users\16540\desktop\algorithm\head\init\init2.h
+
+1606984190 source:c:\users\16540\desktop\algorithm\res\res3\edf.cpp
+	<iostream>
+	"../../head/init/init3.h"
+	"../../head/res/res3/EDF.h"
+	<vector>
+	<fstream>
+	<algorithm>
+
+1606984061 c:\users\16540\desktop\algorithm\head\init\init3.h
+	<string>
+
+1606984416 source:c:\users\16540\desktop\algorithm\res\res3\llf.cpp
+	"../../head/res/res3/LLF.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<algorithm>
+	"../../head/init/init3.h"
+
+1606980217 c:\users\16540\desktop\algorithm\head\res\res1\fcfs.h
+
+1606980407 c:\users\16540\desktop\algorithm\head\res\res1\sjf.h
+
+1606980370 c:\users\16540\desktop\algorithm\head\res\res1\hrrn.h
+
+1606980430 c:\users\16540\desktop\algorithm\head\res\res1\srt.h
+
+1606980387 c:\users\16540\desktop\algorithm\head\res\res1\rr.h
+
+1606982329 c:\users\16540\desktop\algorithm\head\res\res2\banker.h
+
+1606984096 c:\users\16540\desktop\algorithm\head\res\res3\edf.h
+	"../../init/init3.h"
+
+1606984102 c:\users\16540\desktop\algorithm\head\res\res3\llf.h
+	"../../init/init3.h"
+
+1606986942 source:c:\users\16540\desktop\algorithm\res\res4\psaf.cpp
+	<iostream>
+	"../../head/init/init4.h"
+	<algorithm>
+
+1606986962 source:c:\users\16540\desktop\algorithm\res\res4\psat.cpp
+	<iostream>
+	<algorithm>
+	"../../head/init/init4.h"
+
+1606987092 source:c:\users\16540\desktop\algorithm\init\init4.cpp
+	"../head/init/init4.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<algorithm>
+
+1606987001 c:\users\16540\desktop\algorithm\head\init\init4.h
+	<string>
+
+1606986849 c:\users\16540\desktop\algorithm\head\res\res4\psat.h
+	"../../init/init4.h"
+
+1606986480 c:\users\16540\desktop\algorithm\head\res\res4\psaf.h
+	"../../init/init4.h"
+
+1610529602 source:c:\users\android\desktop\os\algorithm\init\init.cpp
+	"../head/init/init.h"
+	<fstream>
+	<iostream>
+	<vector>
+
+1610529556 c:\users\android\desktop\os\algorithm\head\init\init.h
+	<vector>
+
+1610531605 source:c:\users\android\desktop\os\algorithm\init\init2.cpp
+	"../head/init/init2.h"
+	<iostream>
+	<fstream>
+
+1610531482 c:\users\android\desktop\os\algorithm\head\init\init2.h
+
+1610535853 source:c:\users\android\desktop\os\algorithm\init\init3.cpp
+	"../head/init/init3.h"
+	<vector>
+	<fstream>
+	<string>
+	<iostream>
+
+1610535860 c:\users\android\desktop\os\algorithm\head\init\init3.h
+	<string>
+	<vector>
+
+1610540478 source:c:\users\android\desktop\os\algorithm\init\init4.cpp
+	"../head/init/init4.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<algorithm>
+
+1610539583 c:\users\android\desktop\os\algorithm\head\init\init4.h
+	<iostream>
+	<string>
+
+1610509008 source:c:\users\android\desktop\os\algorithm\input.cpp
+	"head/input.h"
+	<iostream>
+
+1610508948 c:\users\android\desktop\os\algorithm\head\input.h
+
+1610518890 source:c:\users\android\desktop\os\algorithm\main.cpp
+	<iostream>
+	"head/input.h"
+	"head/output.h"
+
+1610539894 c:\users\android\desktop\os\algorithm\head\output.h
+
+1610540027 source:c:\users\android\desktop\os\algorithm\output.cpp
+	"head/output.h"
+	<iostream>
+	"head/init/init.h"
+	"head/init/init2.h"
+	"head/init/init3.h"
+	"head/init/init4.h"
+	"head/res/res1/FCFS.h"
+	"head/res/res1/SJF.h"
+	"head/res/res1/HRRN.h"
+	"head/res/res1/SRT.h"
+	"head/res/res1/RR.h"
+	"head/res/res2/BANKER.h"
+	"head/res/res3/EDF.h"
+	"head/res/res3/LLF.h"
+	"head/res/res4/PSAt.h"
+	"head/res/res4/PSAf.h"
+
+1606980217 c:\users\android\desktop\os\algorithm\head\res\res1\fcfs.h
+
+1606980407 c:\users\android\desktop\os\algorithm\head\res\res1\sjf.h
+
+1606980370 c:\users\android\desktop\os\algorithm\head\res\res1\hrrn.h
+
+1606980430 c:\users\android\desktop\os\algorithm\head\res\res1\srt.h
+
+1610517575 c:\users\android\desktop\os\algorithm\head\res\res1\rr.h
+	<queue>
+
+1610531598 c:\users\android\desktop\os\algorithm\head\res\res2\banker.h
+	"../../init/init2.h"
+
+1610535573 c:\users\android\desktop\os\algorithm\head\res\res3\edf.h
+	"../../init/init3.h"
+
+1610535492 c:\users\android\desktop\os\algorithm\head\res\res3\llf.h
+	"../../init/init3.h"
+
+1610539339 c:\users\android\desktop\os\algorithm\head\res\res4\psat.h
+	"../../init/init4.h"
+
+1610539346 c:\users\android\desktop\os\algorithm\head\res\res4\psaf.h
+	"../../init/init4.h"
+
+1610527443 source:c:\users\android\desktop\os\algorithm\res\res1\fcfs.cpp
+	"../../head/res/res1/FCFS.h"
+	"../../head/init/init.h"
+	<iostream>
+
+1610527433 source:c:\users\android\desktop\os\algorithm\res\res1\hrrn.cpp
+	"../../head/res/res1/HRRN.h"
+	"../../head/init/init.h"
+
+1610527442 source:c:\users\android\desktop\os\algorithm\res\res1\rr.cpp
+	"../../head/res/res1/RR.h"
+	"../../head/init/init.h"
+
+1610527446 source:c:\users\android\desktop\os\algorithm\res\res1\sjf.cpp
+	"../../head/res/res1/SJF.h"
+	"../../head/init/init.h"
+
+1610527448 source:c:\users\android\desktop\os\algorithm\res\res1\srt.cpp
+	"../../head/res/res1/SRT.h"
+	"../../head/init/init.h"
+
+1610530940 source:c:\users\android\desktop\os\algorithm\res\res2\banker.cpp
+	"../../head/init/init2.h"
+	"../../head/res/res2/BANKER.h"
+	<iostream>
+
+1610535842 source:c:\users\android\desktop\os\algorithm\res\res3\edf.cpp
+	<iostream>
+	"../../head/init/init3.h"
+	"../../head/res/res3/EDF.h"
+	<vector>
+	<fstream>
+	<algorithm>
+
+1610535708 source:c:\users\android\desktop\os\algorithm\res\res3\llf.cpp
+	"../../head/res/res3/LLF.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<algorithm>
+	"../../head/init/init3.h"
+
+1610540108 source:c:\users\android\desktop\os\algorithm\res\res4\psaf.cpp
+	<iostream>
+	"../../head/init/init4.h"
+	"../../head/res/res4/PSAf.h"
+	<algorithm>
+
+1610540473 source:c:\users\android\desktop\os\algorithm\res\res4\psat.cpp
+	<iostream>
+	<algorithm>
+	"../../head/res/res4/PSAt.h"
+	"../../head/init/init4.h"
+
+1610529602 source:e:\大三上学期\操作系统\19-罗锦臣-田云召-李炎辉\process\algorithm\init\init.cpp
+	"../head/init/init.h"
+	<fstream>
+	<iostream>
+	<vector>
+
+1610794684 e:\大三上学期\操作系统\19-罗锦臣-田云召-李炎辉\process\algorithm\head\init\init.h
+	<vector>
+
+1610794423 source:e:\大三上学期\操作系统\19-罗锦臣-田云召-李炎辉\process\algorithm\init\init2.cpp
+	"../head/init/init2.h"
+	<iostream>
+	<fstream>
+
+1610794404 e:\大三上学期\操作系统\19-罗锦臣-田云召-李炎辉\process\algorithm\head\init\init2.h
+
+1610535853 source:e:\大三上学期\操作系统\19-罗锦臣-田云召-李炎辉\process\algorithm\init\init3.cpp
+	"../head/init/init3.h"
+	<vector>
+	<fstream>
+	<string>
+	<iostream>
+
+1610793387 e:\大三上学期\操作系统\19-罗锦臣-田云召-李炎辉\process\algorithm\head\init\init3.h
+	<string>
+	<vector>
+
+1610540478 source:e:\大三上学期\操作系统\19-罗锦臣-田云召-李炎辉\process\algorithm\init\init4.cpp
+	"../head/init/init4.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<algorithm>
+
+1610539583 e:\大三上学期\操作系统\19-罗锦臣-田云召-李炎辉\process\algorithm\head\init\init4.h
+	<iostream>
+	<string>
+
+1610509008 source:e:\大三上学期\操作系统\19-罗锦臣-田云召-李炎辉\process\algorithm\input.cpp
+	"head/input.h"
+	<iostream>
+
+1610508948 e:\大三上学期\操作系统\19-罗锦臣-田云召-李炎辉\process\algorithm\head\input.h
+
+1610518890 source:e:\大三上学期\操作系统\19-罗锦臣-田云召-李炎辉\process\algorithm\main.cpp
+	<iostream>
+	"head/input.h"
+	"head/output.h"
+
+1610539894 e:\大三上学期\操作系统\19-罗锦臣-田云召-李炎辉\process\algorithm\head\output.h
+
+1610540027 source:e:\大三上学期\操作系统\19-罗锦臣-田云召-李炎辉\process\algorithm\output.cpp
+	"head/output.h"
+	<iostream>
+	"head/init/init.h"
+	"head/init/init2.h"
+	"head/init/init3.h"
+	"head/init/init4.h"
+	"head/res/res1/FCFS.h"
+	"head/res/res1/SJF.h"
+	"head/res/res1/HRRN.h"
+	"head/res/res1/SRT.h"
+	"head/res/res1/RR.h"
+	"head/res/res2/BANKER.h"
+	"head/res/res3/EDF.h"
+	"head/res/res3/LLF.h"
+	"head/res/res4/PSAt.h"
+	"head/res/res4/PSAf.h"
+
+1606980217 e:\大三上学期\操作系统\19-罗锦臣-田云召-李炎辉\process\algorithm\head\res\res1\fcfs.h
+
+1606980407 e:\大三上学期\操作系统\19-罗锦臣-田云召-李炎辉\process\algorithm\head\res\res1\sjf.h
+
+1606980370 e:\大三上学期\操作系统\19-罗锦臣-田云召-李炎辉\process\algorithm\head\res\res1\hrrn.h
+
+1606980430 e:\大三上学期\操作系统\19-罗锦臣-田云召-李炎辉\process\algorithm\head\res\res1\srt.h
+
+1610517575 e:\大三上学期\操作系统\19-罗锦臣-田云召-李炎辉\process\algorithm\head\res\res1\rr.h
+	<queue>
+
+1610794638 e:\大三上学期\操作系统\19-罗锦臣-田云召-李炎辉\process\algorithm\head\res\res2\banker.h
+	"../../init/init2.h"
+
+1610535573 e:\大三上学期\操作系统\19-罗锦臣-田云召-李炎辉\process\algorithm\head\res\res3\edf.h
+	"../../init/init3.h"
+
+1610535492 e:\大三上学期\操作系统\19-罗锦臣-田云召-李炎辉\process\algorithm\head\res\res3\llf.h
+	"../../init/init3.h"
+
+1610539339 e:\大三上学期\操作系统\19-罗锦臣-田云召-李炎辉\process\algorithm\head\res\res4\psat.h
+	"../../init/init4.h"
+
+1610539346 e:\大三上学期\操作系统\19-罗锦臣-田云召-李炎辉\process\algorithm\head\res\res4\psaf.h
+	"../../init/init4.h"
+
+1610527443 source:e:\大三上学期\操作系统\19-罗锦臣-田云召-李炎辉\process\algorithm\res\res1\fcfs.cpp
+	"../../head/res/res1/FCFS.h"
+	"../../head/init/init.h"
+	<iostream>
+
+1610527433 source:e:\大三上学期\操作系统\19-罗锦臣-田云召-李炎辉\process\algorithm\res\res1\hrrn.cpp
+	"../../head/res/res1/HRRN.h"
+	"../../head/init/init.h"
+
+1610527442 source:e:\大三上学期\操作系统\19-罗锦臣-田云召-李炎辉\process\algorithm\res\res1\rr.cpp
+	"../../head/res/res1/RR.h"
+	"../../head/init/init.h"
+
+1610527446 source:e:\大三上学期\操作系统\19-罗锦臣-田云召-李炎辉\process\algorithm\res\res1\sjf.cpp
+	"../../head/res/res1/SJF.h"
+	"../../head/init/init.h"
+
+1610527448 source:e:\大三上学期\操作系统\19-罗锦臣-田云召-李炎辉\process\algorithm\res\res1\srt.cpp
+	"../../head/res/res1/SRT.h"
+	"../../head/init/init.h"
+

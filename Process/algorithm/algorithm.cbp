@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="algorithm" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/algorithm" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/algorithm" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="data/file.txt" />
+		<Unit filename="data/file2.txt" />
+		<Unit filename="data/file3.txt" />
+		<Unit filename="data/file4.txt" />
+		<Unit filename="head/init/init.h" />
+		<Unit filename="head/init/init2.h" />
+		<Unit filename="head/init/init3.h" />
+		<Unit filename="head/init/init4.h" />
+		<Unit filename="head/input.h" />
+		<Unit filename="head/output.h" />
+		<Unit filename="head/res/res1/FCFS.h" />
+		<Unit filename="head/res/res1/HRRN.h" />
+		<Unit filename="head/res/res1/RR.h" />
+		<Unit filename="head/res/res1/SJF.h" />
+		<Unit filename="head/res/res1/SRT.h" />
+		<Unit filename="head/res/res2/BANKER.h" />
+		<Unit filename="head/res/res3/EDF.h" />
+		<Unit filename="head/res/res3/LLF.h" />
+		<Unit filename="head/res/res4/PSAf.h" />
+		<Unit filename="head/res/res4/PSAt.h" />
+		<Unit filename="init/init.cpp" />
+		<Unit filename="init/init2.cpp" />
+		<Unit filename="init/init3.cpp" />
+		<Unit filename="init/init4.cpp" />
+		<Unit filename="input.cpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="output.cpp" />
+		<Unit filename="res/res1/FCFS.cpp" />
+		<Unit filename="res/res1/HRRN.cpp" />
+		<Unit filename="res/res1/RR.cpp" />
+		<Unit filename="res/res1/SJF.cpp" />
+		<Unit filename="res/res1/SRT.cpp" />
+		<Unit filename="res/res2/BANKER.cpp" />
+		<Unit filename="res/res3/EDF.cpp" />
+		<Unit filename="res/res3/LLF.cpp" />
+		<Unit filename="res/res4/PSAf.cpp" />
+		<Unit filename="res/res4/PSAt.cpp" />
+		<Unit filename="result/result1/FCFS.txt" />
+		<Unit filename="result/result1/HRRN.txt" />
+		<Unit filename="result/result1/RR.txt" />
+		<Unit filename="result/result1/SJF.txt" />
+		<Unit filename="result/result1/SRT.txt" />
+		<Unit filename="result/result2/BANKER.txt" />
+		<Unit filename="result/result3/EDF.txt" />
+		<Unit filename="result/result3/LLF.txt" />
+		<Unit filename="result/result4/PSAf.txt" />
+		<Unit filename="result/result4/PSAt.txt" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
